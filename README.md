@@ -43,10 +43,10 @@ npm install
 npm test
 
 # Run tests in watch mode
-npm test -- --watch
+npm run test:watch
 
 # Run tests with coverage
-npm test -- --coverage
+npm run test:coverage
 ```
 
 ## Project Structure
